@@ -1,0 +1,2 @@
+# GPT-3-for-Automated-Feedback-in-Chemistry-Lab-Reports
+We aimed to utilize the classification capabilities of the GPT-3 language model to assign comments, from a pre-trained set, to university students' chemistry lab reports. Data on lab reports was generated from comments left during grading by chemistry professors and graduate assistants. In addition to assigning comments via classification, we aimed to use GPT-3's completion mechanism to generate unique comments that may go unnoticed by peers or educators.
